@@ -26,7 +26,6 @@ TechTidy (Homepage)
 ├── Resources
 │   ├── Getting Started Guides
 │   ├── Common Use Cases
-│   ├── Best Practices
 │   ├── Recommended Tools
 │   └── FAQ
 │
@@ -151,11 +150,6 @@ TechTidy (Homepage)
      - Email Workflows
      - Calendar and Tasks
      - Social Media to CRM
-   
-   - **Best Practices** (3 article cards)
-     - Security and Privacy
-     - Testing Integrations
-     - Maintaining Integrations
 
 3. **Recommended Tools Section**
    - 4 popular integration platforms
