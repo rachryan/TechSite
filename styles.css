@@ -853,6 +853,7 @@ footer {
     font-size: 1.125rem;
     color: var(--text-secondary);
     margin-bottom: var(--spacing-lg);
+    text-align: center;
 }
 
 .solution-grid {
