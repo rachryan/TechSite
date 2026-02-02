@@ -23,8 +23,6 @@ TechTidy (Homepage)
 │   └── Data & Information Management
 │
 ├── Resources
-│   ├── Common Use Cases
-│   ├── Best Practices
 │   ├── Recommended Tools
 │   └── FAQ
 │
@@ -134,15 +132,12 @@ TechTidy (Homepage)
    - Focus on support and success
 
 2. **Resource Categories**:
-   - **Common Use Cases** (3 tutorial cards)
-     - Email Workflows
-     - Calendar and Tasks
-     - Social Media to CRM
-   
-   - **Best Practices** (3 article cards)
-     - Security and Privacy
-     - Testing Integrations
-     - Maintaining Integrations
+   - **Tech Basics** (5 guide cards)
+     - What Are Browsers and Bookmarks?
+     - What Are Folders and Cloud Features?
+     - How to Choose a Chat Application
+     - What is the Cloud?
+     - Where Are My Files? Managing File Chaos
 
 3. **Recommended Tools Section**
    - 4 popular integration platforms
