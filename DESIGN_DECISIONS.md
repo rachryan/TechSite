@@ -1,13 +1,13 @@
-# ConnectFlow Website - Design Decisions & Rationale
+# TechTidy Website - Design Decisions & Rationale
 
 ## Overview
-This document explains the design decisions made for the ConnectFlow website, focusing on how the design supports the goals of creating curiosity, confidence, and clarity around technology integrations.
+This document explains the design decisions made for the TechTidy website, focusing on how the design supports the goals of creating curiosity, confidence, and clarity around technology integrations.
 
 ---
 
 ## Brand & Naming
 
-### Website Name: ConnectFlow
+### Website Name: TechTidy
 **Rationale**: 
 - **Connect** - Clearly communicates the core offering (connecting apps/tools)
 - **Flow** - Suggests ease, smoothness, and the idea of work flowing naturally

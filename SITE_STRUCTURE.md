@@ -1,4 +1,4 @@
-# ConnectFlow Website - Site Structure & Navigation
+# TechTidy Website - Site Structure & Navigation
 
 ## Site Architecture
 
@@ -13,7 +13,7 @@ The navigation is designed to be simple, clear, and action-oriented:
 ### Site Map
 
 ```
-ConnectFlow (Homepage)
+TechTidy (Homepage)
 │
 ├── How It Works
 │   └── Understanding integrations, setup process, common patterns

@@ -1,10 +1,10 @@
-# ConnectFlow - Technology Integration Website
+# TechTidy - Technology Integration Website
 
 A modern, easy-to-navigate website that helps people feel curious and confident about improving how their technology works together. The site shows how apps and tools can connect to simplify work and reduce frustration.
 
 ## Overview
 
-ConnectFlow is designed with simple navigation, calm visuals, plain language, and subtle delight. The focus is on clarity, exploration, and low-pressure next steps.
+TechTidy is designed with simple navigation, calm visuals, plain language, and subtle delight. The focus is on clarity, exploration, and low-pressure next steps.
 
 ## Features
 

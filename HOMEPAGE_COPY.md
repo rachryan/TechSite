@@ -1,4 +1,4 @@
-# ConnectFlow - Sample Homepage Copy
+# TechTidy - Sample Homepage Copy
 
 This document contains the complete copy from the homepage, demonstrating the plain language, benefit-focused approach used throughout the site.
 
@@ -101,7 +101,7 @@ There's no commitment—just possibilities. Start by learning what connections c
 ## Footer
 
 ### Brand Tagline
-**ConnectFlow**
+**TechTidy**
 Making technology work better together
 
 ### Navigation Sections
@@ -116,7 +116,7 @@ Making technology work better together
 - Support
 
 ### Copyright
-© 2026 ConnectFlow. Helping people work better with technology.
+© 2026 TechTidy. Helping people work better with technology.
 
 ---
 
