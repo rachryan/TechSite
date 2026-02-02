@@ -48,7 +48,6 @@ WEBSITE STRUCTURE
    - Benefit lists
 
 4. Resources (resources.html) - 13 KB
-   - Getting started guides
    - Tutorials and best practices
    - Tool recommendations
    - FAQ section

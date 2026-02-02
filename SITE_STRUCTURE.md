@@ -24,7 +24,6 @@ TechTidy (Homepage)
 │   └── Customer Communication
 │
 ├── Resources
-│   ├── Getting Started Guides
 │   ├── Common Use Cases
 │   ├── Best Practices
 │   ├── Recommended Tools
@@ -142,11 +141,6 @@ TechTidy (Homepage)
    - Focus on support and success
 
 2. **Resource Categories**:
-   - **Getting Started Guides** (3 cards)
-     - Your First Integration
-     - Choosing the Right Platform
-     - Integration Planning Checklist
-   
    - **Common Use Cases** (3 tutorial cards)
      - Email Workflows
      - Calendar and Tasks
