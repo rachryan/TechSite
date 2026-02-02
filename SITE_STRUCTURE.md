@@ -20,8 +20,7 @@ TechTidy (Homepage)
 │
 ├── Solutions
 │   ├── Productivity & Time Management
-│   ├── Data & Information Management
-│   └── Customer Communication
+│   └── Data & Information Management
 │
 ├── Resources
 │   ├── Getting Started Guides
@@ -106,7 +105,7 @@ TechTidy (Homepage)
 1. **Page Hero**
    - Focus on real solutions for everyday challenges
 
-2. **Solution Categories** (3 main categories):
+2. **Solution Categories** (2 main categories):
    
    **A. Productivity & Time Management** ⚡
    - Email → Task Management
@@ -117,11 +116,6 @@ TechTidy (Homepage)
    - Form Submissions → Spreadsheet
    - CRM Data Sync
    - Document Management
-   
-   **C. Customer Communication** 💬
-   - Support Ticket Creation
-   - Customer Feedback Collection
-   - Welcome Email Automation
 
 3. **Each Solution Card Shows**:
    - Clear title (what connects to what)
