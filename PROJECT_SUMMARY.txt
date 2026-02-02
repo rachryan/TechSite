@@ -49,7 +49,7 @@ WEBSITE STRUCTURE
 
 4. Resources (resources.html) - 13 KB
    - Getting started guides
-   - Tutorials and best practices
+   - Tutorials
    - Tool recommendations
    - FAQ section
 
