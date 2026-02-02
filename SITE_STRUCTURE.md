@@ -25,7 +25,6 @@ TechTidy (Homepage)
 │
 ├── Resources
 │   ├── Getting Started Guides
-│   ├── Common Use Cases
 │   ├── Best Practices
 │   ├── Recommended Tools
 │   └── FAQ
@@ -146,11 +145,6 @@ TechTidy (Homepage)
      - Your First Integration
      - Choosing the Right Platform
      - Integration Planning Checklist
-   
-   - **Common Use Cases** (3 tutorial cards)
-     - Email Workflows
-     - Calendar and Tasks
-     - Social Media to CRM
    
    - **Best Practices** (3 article cards)
      - Security and Privacy
