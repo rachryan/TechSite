@@ -115,7 +115,6 @@ TechTidy (Homepage)
    
    **B. Data & Information Management** 📊
    - Form Submissions → Spreadsheet
-   - CRM Data Sync
    - Document Management
    
    **C. Customer Communication** 💬
