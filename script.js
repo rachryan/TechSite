@@ -33,6 +33,32 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
     
+    // Colorful cube card interactions
+    const valueCards = document.querySelectorAll('.value-card');
+    valueCards.forEach(card => {
+        card.addEventListener('click', function(e) {
+            // Don't expand if clicking on a link inside
+            if (e.target.tagName === 'A') return;
+            
+            // Close other expanded cards
+            valueCards.forEach(otherCard => {
+                if (otherCard !== card) {
+                    otherCard.classList.remove('expanded');
+                }
+            });
+            
+            // Toggle this card
+            this.classList.toggle('expanded');
+            
+            // Smooth scroll to card if it's being expanded
+            if (this.classList.contains('expanded')) {
+                setTimeout(() => {
+                    this.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+                }, 100);
+            }
+        });
+    });
+    
     // Smooth scroll for anchor links
     document.querySelectorAll('a[href^="#"]').forEach(anchor => {
         anchor.addEventListener('click', function (e) {
