@@ -214,34 +214,6 @@ header {
     display: none;
 }
 
-.connection-animation {
-    display: none;
-}
-
-.node {
-    display: none;
-}
-
-.connection-lines {
-    display: none;
-}
-
-.line {
-    display: none;
-}
-
-@keyframes pulse {
-    display: none;
-}
-
-@keyframes pulse-top {
-    display: none;
-}
-
-@keyframes dash {
-    display: none;
-}
-
 /* =================================================================
    BUTTONS - Minimal and refined
    ================================================================= */
@@ -539,6 +511,10 @@ header {
     margin-bottom: var(--spacing-sm);
     font-size: 1.25rem;
     font-weight: 600;
+}
+
+.example-card .solution-progress-heading {
+    margin-top: var(--spacing-md);
 }
 
 .example-card p {
